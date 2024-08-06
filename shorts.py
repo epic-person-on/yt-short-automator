@@ -16,7 +16,7 @@ if option == 'yes':
     # Generate content using OpenAI API
     theme = input("\nEnter the theme of the video >  ")
 
-    key='AIzaSyA2fcK68Ea8OqAW67VQ0DuNSG_NqCtjr0Y'
+    key='Placeholder'
 
     genai.configure(api_key=key)
 
