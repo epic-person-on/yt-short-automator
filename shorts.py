@@ -13,7 +13,6 @@ title = input("\nEnter the name of the video >  ")
 option = input('Do you want AI to generate content? (yes/no) >  ')
 
 if option == 'yes':
-    # Generate content using OpenAI API
     theme = input("\nEnter the theme of the video >  ")
 
     key='Placeholder'
